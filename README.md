@@ -11,11 +11,11 @@
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning ** (Full-Stack Web Development)**
 - 💬 Ask me about **Front-End**
-- 👨‍💻 Some of my projects are available at [My Portfolio](https://akadcoder-netflix-project.vercel.app/)
+- 👨‍💻 Some of my projects are available at [My Project](https://akadcoder-netflix-project.vercel.app/)
 -  📄 Know about my experiences [My Resume]()
-- 📫 How to reach me: ...**209shivrajsingh4@gmail.com**
+- 📫 How to reach me: ...**209shivrajsingh@gmail.com**
 - 😄 Pronouns: ...@Akadcoder
-- ⚡ Fun fact: ...Always smile😄 in tough situation
+- 🦚💗 Limit Your Availability To Create Exclusivity
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
